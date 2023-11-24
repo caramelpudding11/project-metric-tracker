@@ -1,0 +1,45 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td {
+    border: 3px solid #5E81AC;
+    padding: 15px;
+    font-family: 'Roboto Mono', monospace;
+  }  
+  
+  table tr:hover {background-color: #8cb1b0b3;}
+
+  table tr{
+    text-align: center;
+  }
+  
+  table th {
+    border: 3px solid rgba(0, 0, 0, 0.761);
+    padding-top: 17px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    background-color: #456790;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+  }
+
+  .dateClass{
+      width: 15%;
+      margin-left: 8%;
+  }
+  .detailListTable{
+      margin-top: 50px;
+      margin-left: 100px;
+      margin-right: 30px;
+  }
+  .detailListTableText{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 30px;
+}
+  
